@@ -1,5 +1,5 @@
 # NATAS
-This repository contains documentation of solving NATAS. You can read about (NATAS here)[https://overthewire.org/wargames/natas].
+This repository contains documentation of solving NATAS. You can read about Natas here[https://overthewire.org/wargames/natas].
 
 Natas teaches the basics of serverside web-security.
 
